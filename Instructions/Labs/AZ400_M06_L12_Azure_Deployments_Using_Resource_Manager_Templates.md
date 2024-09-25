@@ -1,4 +1,4 @@
-# Lab 12: Manage infrastructure as code using Azure and DSC
+# Manage infrastructure as code using Azure and DSC
 
 # Deployments using Azure Bicep templates
 
